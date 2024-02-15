@@ -9,11 +9,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://sites.google.com/view/carltoro/home?authuser=0" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/12372/12372865.png" alt="carltoro" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/carltoro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="carltoro" height="30" width="40" /></a>
 <a href="https://instagram.com/ilustratoro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ilustratoro" height="30" width="40" /></a>
 <a href="https://www.behance.net/ilustratoro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="ilustratoro" height="30" width="40" /></a>
  <a href="https://scholar.google.com/citations?user=TIG9CrIAAAAJ&hl=es" target="blank"><img align="center" src="https://static-00.iconduck.com/assets.00/google-scholar-icon-2048x2048-sjbhklt7.png" alt="ilustratoro" height="30" width="40" /></a>
 </p>
+
 
 
 <h3 align="left">Languages and Tools:</h3>
