@@ -40,7 +40,7 @@
 <div align="center">                                       
 <a href="https://github.com/carltoro/Curso_Control_Automatico.git" target="_blank"><img src="https://github.com/carltoro/Curso_Control_Automatico/blob/be99ee2ad12de37e1862c02aa09a13d35fb727f4/Images/Curso%20Control.png" width="400" alt="Curso de Control Automático"></a>
 
-</p>Curso introductorio de sistemas de control para ingenieros.</p>
+<p>Curso introductorio de sistemas de control para ingenieros.</p>
 </div>                                                             
 </table>                                                                                 
 </div>
