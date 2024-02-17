@@ -30,7 +30,6 @@
 <div align="center">
 <a href="https://github.com/carltoro/Curso_Inteligencia_Artificial_para_Ingenieros.git" target="_blank"><img src="https://github.com/carltoro/Curso_Inteligencia_Artificial_para_Ingenieros/blob/cb33ef94dc684b1b2cc25b207b99ae3a7ca7837c/Images/IA_course.png" width="400" alt="Curso de Inteligencia Artificial para Ingenieros"></a>
 
-<br>
 <p>Curso dictado a estudiantes de Ingeniería Electrónica en 2022.</p>
 </div> 
 
