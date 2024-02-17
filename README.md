@@ -31,8 +31,7 @@
 <a href="https://github.com/carltoro/Curso_Inteligencia_Artificial_para_Ingenieros.git" target="_blank"><img src="https://github.com/carltoro/Curso_Inteligencia_Artificial_para_Ingenieros/blob/cb33ef94dc684b1b2cc25b207b99ae3a7ca7837c/Images/IA_course.png" width="400" alt="Curso de Inteligencia Artificial para Ingenieros"></a>
 
 <p>Curso dictado a estudiantes de Ingeniería Electrónica en 2022.</p>
-</div>
-                                                                                      
+</div>                                                                               
 </td>
 
 <td width="50%">
@@ -41,7 +40,7 @@
 <a href="https://github.com/carltoro/Curso_Control_Automatico.git" target="_blank"><img src="https://github.com/carltoro/Curso_Control_Automatico/blob/be99ee2ad12de37e1862c02aa09a13d35fb727f4/Images/Curso%20Control.png" width="400" alt="Curso de Control Automático"></a>
 
 <p>Curso introductorio de sistemas de control para ingenieros.</p>
-</div>                                                             
-</table>                                                                                 
+</div>                                                                                                                                          
 </div>
 </td>
+</table> 
