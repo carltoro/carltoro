@@ -1,7 +1,7 @@
 <h1 align="center">Hi there👋, I'm Carlos</h1>
 <h3 align="center">A research scientist from Chile</h3>
 
-- 🔭 I’m currently working on a project involving classification of 1-D spectral signals from minerals combustion and blueberries
+- 🔭 I’m currently working on projects involving classification and regression of 1-D spectral signals from minerals combustion and blueberries
 - 🌱 I’m currently learning about multimodal deep learning
 - 👯 I’m looking to work on applied artificial intelligence projects
 - 📫 Reach me at [email](mailto:carlos.toro.ing@gmail.com)
